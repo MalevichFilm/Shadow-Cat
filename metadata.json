@@ -1,0 +1,5 @@
+{
+  "name": "Shadow Cat Game",
+  "description": "A stealth game where you control a cat, avoiding detection circles to reach the goal. The game features joystick controls for smooth 360-degree movement and multiple levels of increasing difficulty.",
+  "requestFramePermissions": []
+}
